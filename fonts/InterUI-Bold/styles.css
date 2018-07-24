@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'InterUI-Bold';
+  src: url('InterUI-Bold.eot?#iefix') format('embedded-opentype'),  url('InterUI-Bold.otf')  format('opentype'),
+	     url('InterUI-Bold.woff') format('woff'), url('InterUI-Bold.ttf')  format('truetype'), url('InterUI-Bold.svg#InterUI-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

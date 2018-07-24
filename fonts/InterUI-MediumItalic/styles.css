@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'InterUI-MediumItalic';
+  src: url('InterUI-MediumItalic.eot?#iefix') format('embedded-opentype'),  url('InterUI-MediumItalic.otf')  format('opentype'),
+	     url('InterUI-MediumItalic.woff') format('woff'), url('InterUI-MediumItalic.ttf')  format('truetype'), url('InterUI-MediumItalic.svg#InterUI-MediumItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

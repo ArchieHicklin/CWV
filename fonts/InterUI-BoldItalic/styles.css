@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'InterUI-BoldItalic';
+  src: url('InterUI-BoldItalic.eot?#iefix') format('embedded-opentype'),  url('InterUI-BoldItalic.otf')  format('opentype'),
+	     url('InterUI-BoldItalic.woff') format('woff'), url('InterUI-BoldItalic.ttf')  format('truetype'), url('InterUI-BoldItalic.svg#InterUI-BoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

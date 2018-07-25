@@ -91,7 +91,7 @@ nav > ul > li.dropdown > a:after{}
 .header-right{float:right;width: 200px;padding: 0px 0 0 9px;}
 .demo{display: inline-block;padding: 0 18px 0 0;}
 .demo a{display: inline-block;border-radius: 4px;box-shadow: 16px 7px 21px 0 #cdcbd6;-webkit-box-shadow: 6px 7px 21px 0 #cdcbd6;-o-box-shadow: 16px 7px 21px 0 #cdcbd6;-ms-box-shadow: 16px 7px 21px 0 #cdcbd6;padding: 15px 29px 12px 29px;margin: -6px 0 0;}
-.country-logo{display: inline-block;}
+.country-logo{display: inline-block; padding: 10px}
 .country-logo a{display: inline-block;vertical-align: middle;}
 .country{display: inline-block;}
 .country-logo a img{display: block;margin:-7px -7px 0 0;}
@@ -283,7 +283,7 @@ nav > ul > li.dropdown > a:after{}
 .team-blk-in{padding: 113px 0 121px 51px;}
 .team-blk-in h2{color:#2b2b2b;padding: 0 0 12px 0;letter-spacing: -3.3px;}
 .team-left{float:left;width: 40.4%;display: inline-block;}
-.team-left figure img{max-width:100%;height:auto;margin: 0 auto;}
+.team-left figure img{max-width:250px;height:auto;margin: 0 auto; border-radius: 50%;}
 .team-right{float: left;width: 58.6%;display: inline-block;padding: 4px 0 0 89px;}
 .team-right h4{color:#2b2b2b;font-size:2.08em;line-height: 27px;margin: 0 0 10px 0;}
 .team-right p{line-height: 22px;padding: 0;letter-spacing: 0.9px;}
@@ -299,7 +299,7 @@ nav > ul > li.dropdown > a:after{}
  .slick-next:before{display: none;}
 /* footer */
 footer{background: #2b2b2b;}
-.footer-in{padding: 53px 7px 59px 15px;}
+.footer-in{padding: 53px 7px 59px 15px;text-align: center; }
 .footer-top{display:block}
 .footer-left{}
 .footer-logo{float:left;}
@@ -309,7 +309,7 @@ footer{background: #2b2b2b;}
 .footer-right ul li{padding: 0 0 4px 0;}
 .footer-right ul li h6{font-size:1.16em;line-height: 16px;color:#ffffff;font-family: 'InterUI-Regular';font-weight:normal;padding: 0 0 20px 0;}
 .footer-right ul li a{display: inline-block;  font-family: 'InterUI-Regular';font-size:1.16em;line-height: 16px;color:#ffffff;font-weight:normal;}
-.footer-bottom{display: inline-block;}
+.footer-bottom{display: inline-block; margin: auto; }
 .footer-bottom p{color:#ffffff;font-size:1.16em;line-height: 17px;padding: 19px 0 66px 0;}
 .footer-bottom a{color:#ffffff;font-size:1.06em;line-height: 16px;}
 .footer-bottom ul{text-align: center;/* max-width:180px; */margin:0 auto;display: table;}

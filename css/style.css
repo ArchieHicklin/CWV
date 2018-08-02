@@ -29,6 +29,7 @@ h6 {font-size:12px;}
 h2{font-size:3.5em;line-height:44px; font-family: 'InterUI-Regular';font-weight:normal;color:#131313;}
 h4{font-size:1.75em;line-height: 23px;font-family: 'InterUI-Regular';font-weight:normal;color:#131313;}
 h3{font-size:3.33em;line-height: 42px;color:#131313;font-weight:normal;font-family: 'InterUI-Regular';}
+h5{font-size:1.4em;line-height: 20px;font-family: 'InterUI-Regular';font-weight:normal;color:#131313;}
 p{font-size:1.13em;line-height: 18px;color:#484848;font-family: 'InterUI-Regular';font-weight:normal;}
 h6{font-size:11px;line-height: 13px;color:#131313;font-weight:normal;font-family: 'InterUI-Regular';}
 /*---------------------------------------------------*/
@@ -235,6 +236,9 @@ nav > ul > li.dropdown > a:after{}
 .frequently-main ul{
     margin: 0 -7px 0 -7px;
 }
+
+
+
 .frequently-main ul li{display: inline-block;width: 32.33%;padding: 20px 20px 24px 20px;vertical-align: top;}
 .frequently-links{}
 .frequently-links h5{font-size: 1.58em;line-height: 24px;color: #131313;font-family: 'InterUI-Regular';font-weight:normal;padding: 0 0 20px 0;}
@@ -243,6 +247,27 @@ nav > ul > li.dropdown > a:after{}
     padding: 0 5px 0 0;
     letter-spacing: 1.1px;
 }
+
+
+.morecontent span {
+    display: none;
+
+}
+.morelink {
+    display: block;
+}
+
+.more {
+	font-size: 1.13em;
+    line-height: 18px;
+    color: #484848;
+    font-family: 'InterUI-Regular';
+    font-weight: normal;
+	line-height: 22px;
+    padding: 0 5px 0 0;
+    letter-spacing: 1.1px;
+}
+
 /*blockstack*/
 .blockstack{background: #ffffff;padding: 77px 0 92px 0;}
 .blockstack-main{}
@@ -283,7 +308,7 @@ nav > ul > li.dropdown > a:after{}
 .team-blk-in{padding: 113px 0 121px 51px;}
 .team-blk-in h2{color:#2b2b2b;padding: 0 0 12px 0;letter-spacing: -3.3px;}
 .team-left{float:left;width: 40.4%;display: inline-block;}
-.team-left figure img{max-width:250px;height:auto;margin: 0 auto; border-radius: 50%;}
+.team-left figure img{max-width:150px;height:auto;margin: 0 auto; border-radius: 50%;}
 .team-right{float: left;width: 58.6%;display: inline-block;padding: 4px 0 0 89px;}
 .team-right h4{color:#2b2b2b;font-size:2.08em;line-height: 27px;margin: 0 0 10px 0;}
 .team-right p{line-height: 22px;padding: 0;letter-spacing: 0.9px;}
@@ -297,6 +322,9 @@ nav > ul > li.dropdown > a:after{}
 .team-blk-in  .slick-arrow{display: none;}
 .team-blk-in .slick-prev:before{display: none;}
  .slick-next:before{display: none;}
+ 
+ 
+ .team{font-size: 1.0em;}
 /* footer */
 footer{background: #2b2b2b;}
 .footer-in{padding: 53px 7px 59px 15px;text-align: center; }
